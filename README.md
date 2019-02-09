@@ -14,3 +14,7 @@ Study Algorithm
  - 1012 : [유기농배추](https://www.acmicpc.net/problem/1012)
  - 1026 : [보물](https://www.acmicpc.net/problem/1026)
  - 1065 : [한수](https://www.acmicpc.net/problem/1065)
+ - 1076 : [저항](https://www.acmicpc.net/problem/1076)
+ - 1094 : [막대기](https://www.acmicpc.net/problem/1094)
+ - 1100 : [하얀 칸](https://www.acmicpc.net/problem/1100)
+ - 1110 : [더하기 사이클](https://www.acmicpc.net/problem/1110)
