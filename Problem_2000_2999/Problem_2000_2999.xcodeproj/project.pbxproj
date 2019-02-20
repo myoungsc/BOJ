@@ -9,6 +9,12 @@
 /* Begin PBXBuildFile section */
 		633F0730221659C800648EF3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633F072F221659C800648EF3 /* main.swift */; };
 		633F073D221659D300648EF3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633F073C221659D300648EF3 /* main.swift */; };
+		637C979E221CEFC600D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C979D221CEFC600D29918 /* main.swift */; };
+		637C97A9221CF1BC00D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C97A8221CF1BC00D29918 /* main.swift */; };
+		637C97BF221CFEDC00D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C97BE221CFEDC00D29918 /* main.swift */; };
+		637C97CA221CFEF400D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C97C9221CFEF400D29918 /* main.swift */; };
+		637C97D5221CFEF900D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C97D4221CFEF900D29918 /* main.swift */; };
+		637C97E0221CFEFE00D29918 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C97DF221CFEFE00D29918 /* main.swift */; };
 		639EC8D2221B970800F72DD2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639EC8D1221B970800F72DD2 /* main.swift */; };
 		639EC8DD221B99FA00F72DD2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639EC8DC221B99FA00F72DD2 /* main.swift */; };
 		639EC935221BA88A00F72DD2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639EC934221BA88A00F72DD2 /* main.swift */; };
@@ -25,6 +31,60 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		633F0738221659D300648EF3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C9799221CEFC600D29918 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C97A4221CF1BC00D29918 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C97BA221CFEDC00D29918 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C97C5221CFEF400D29918 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C97D0221CFEF900D29918 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		637C97DB221CFEFE00D29918 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -67,6 +127,18 @@
 		633F072F221659C800648EF3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		633F073A221659D300648EF3 /* 2979 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2979; sourceTree = BUILT_PRODUCTS_DIR; };
 		633F073C221659D300648EF3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C979B221CEFC600D29918 /* 2525 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2525; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C979D221CEFC600D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C97A6221CF1BC00D29918 /* 2420 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2420; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C97A8221CF1BC00D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C97BC221CFEDC00D29918 /* 2161 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2161; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C97BE221CFEDC00D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C97C7221CFEF400D29918 /* 2163 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2163; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C97C9221CFEF400D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C97D2221CFEF900D29918 /* 2292 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2292; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C97D4221CFEF900D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		637C97DD221CFEFE00D29918 /* 2309 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2309; sourceTree = BUILT_PRODUCTS_DIR; };
+		637C97DF221CFEFE00D29918 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		639EC8CF221B970800F72DD2 /* 2822 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2822; sourceTree = BUILT_PRODUCTS_DIR; };
 		639EC8D1221B970800F72DD2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		639EC8DA221B99FA00F72DD2 /* 2563 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2563; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +156,48 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		633F0737221659D300648EF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C9798221CEFC600D29918 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97A3221CF1BC00D29918 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97B9221CFEDC00D29918 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97C4221CFEF400D29918 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97CF221CFEF900D29918 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97DA221CFEFE00D29918 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -119,6 +233,12 @@
 			children = (
 				633F072E221659C800648EF3 /* Problem_2000_2999 */,
 				639EC933221BA88A00F72DD2 /* 2010 */,
+				637C97BD221CFEDC00D29918 /* 2161 */,
+				637C97C8221CFEF400D29918 /* 2163 */,
+				637C97D3221CFEF900D29918 /* 2292 */,
+				637C97DE221CFEFE00D29918 /* 2309 */,
+				637C97A7221CF1BC00D29918 /* 2420 */,
+				637C979C221CEFC600D29918 /* 2525 */,
 				639EC8DB221B99FA00F72DD2 /* 2563 */,
 				639EC8D0221B970800F72DD2 /* 2822 */,
 				633F073B221659D300648EF3 /* 2979 */,
@@ -134,6 +254,12 @@
 				639EC8CF221B970800F72DD2 /* 2822 */,
 				639EC8DA221B99FA00F72DD2 /* 2563 */,
 				639EC932221BA88A00F72DD2 /* 2010 */,
+				637C979B221CEFC600D29918 /* 2525 */,
+				637C97A6221CF1BC00D29918 /* 2420 */,
+				637C97BC221CFEDC00D29918 /* 2161 */,
+				637C97C7221CFEF400D29918 /* 2163 */,
+				637C97D2221CFEF900D29918 /* 2292 */,
+				637C97DD221CFEFE00D29918 /* 2309 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,6 +278,54 @@
 				633F073C221659D300648EF3 /* main.swift */,
 			);
 			path = 2979;
+			sourceTree = "<group>";
+		};
+		637C979C221CEFC600D29918 /* 2525 */ = {
+			isa = PBXGroup;
+			children = (
+				637C979D221CEFC600D29918 /* main.swift */,
+			);
+			path = 2525;
+			sourceTree = "<group>";
+		};
+		637C97A7221CF1BC00D29918 /* 2420 */ = {
+			isa = PBXGroup;
+			children = (
+				637C97A8221CF1BC00D29918 /* main.swift */,
+			);
+			path = 2420;
+			sourceTree = "<group>";
+		};
+		637C97BD221CFEDC00D29918 /* 2161 */ = {
+			isa = PBXGroup;
+			children = (
+				637C97BE221CFEDC00D29918 /* main.swift */,
+			);
+			path = 2161;
+			sourceTree = "<group>";
+		};
+		637C97C8221CFEF400D29918 /* 2163 */ = {
+			isa = PBXGroup;
+			children = (
+				637C97C9221CFEF400D29918 /* main.swift */,
+			);
+			path = 2163;
+			sourceTree = "<group>";
+		};
+		637C97D3221CFEF900D29918 /* 2292 */ = {
+			isa = PBXGroup;
+			children = (
+				637C97D4221CFEF900D29918 /* main.swift */,
+			);
+			path = 2292;
+			sourceTree = "<group>";
+		};
+		637C97DE221CFEFE00D29918 /* 2309 */ = {
+			isa = PBXGroup;
+			children = (
+				637C97DF221CFEFE00D29918 /* main.swift */,
+			);
+			path = 2309;
 			sourceTree = "<group>";
 		};
 		639EC8D0221B970800F72DD2 /* 2822 */ = {
@@ -213,6 +387,108 @@
 			name = 2979;
 			productName = 2979;
 			productReference = 633F073A221659D300648EF3 /* 2979 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C979A221CEFC600D29918 /* 2525 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97A1221CEFC600D29918 /* Build configuration list for PBXNativeTarget "2525" */;
+			buildPhases = (
+				637C9797221CEFC600D29918 /* Sources */,
+				637C9798221CEFC600D29918 /* Frameworks */,
+				637C9799221CEFC600D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2525;
+			productName = 2525;
+			productReference = 637C979B221CEFC600D29918 /* 2525 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C97A5221CF1BC00D29918 /* 2420 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97AC221CF1BC00D29918 /* Build configuration list for PBXNativeTarget "2420" */;
+			buildPhases = (
+				637C97A2221CF1BC00D29918 /* Sources */,
+				637C97A3221CF1BC00D29918 /* Frameworks */,
+				637C97A4221CF1BC00D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2420;
+			productName = 2420;
+			productReference = 637C97A6221CF1BC00D29918 /* 2420 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C97BB221CFEDC00D29918 /* 2161 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97C2221CFEDC00D29918 /* Build configuration list for PBXNativeTarget "2161" */;
+			buildPhases = (
+				637C97B8221CFEDC00D29918 /* Sources */,
+				637C97B9221CFEDC00D29918 /* Frameworks */,
+				637C97BA221CFEDC00D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2161;
+			productName = 2161;
+			productReference = 637C97BC221CFEDC00D29918 /* 2161 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C97C6221CFEF400D29918 /* 2163 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97CB221CFEF400D29918 /* Build configuration list for PBXNativeTarget "2163" */;
+			buildPhases = (
+				637C97C3221CFEF400D29918 /* Sources */,
+				637C97C4221CFEF400D29918 /* Frameworks */,
+				637C97C5221CFEF400D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2163;
+			productName = 2163;
+			productReference = 637C97C7221CFEF400D29918 /* 2163 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C97D1221CFEF900D29918 /* 2292 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97D6221CFEF900D29918 /* Build configuration list for PBXNativeTarget "2292" */;
+			buildPhases = (
+				637C97CE221CFEF900D29918 /* Sources */,
+				637C97CF221CFEF900D29918 /* Frameworks */,
+				637C97D0221CFEF900D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2292;
+			productName = 2292;
+			productReference = 637C97D2221CFEF900D29918 /* 2292 */;
+			productType = "com.apple.product-type.tool";
+		};
+		637C97DC221CFEFE00D29918 /* 2309 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 637C97E1221CFEFE00D29918 /* Build configuration list for PBXNativeTarget "2309" */;
+			buildPhases = (
+				637C97D9221CFEFE00D29918 /* Sources */,
+				637C97DA221CFEFE00D29918 /* Frameworks */,
+				637C97DB221CFEFE00D29918 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 2309;
+			productName = 2309;
+			productReference = 637C97DD221CFEFE00D29918 /* 2309 */;
 			productType = "com.apple.product-type.tool";
 		};
 		639EC8CE221B970800F72DD2 /* 2822 */ = {
@@ -282,6 +558,24 @@
 					633F0739221659D300648EF3 = {
 						CreatedOnToolsVersion = 10.1;
 					};
+					637C979A221CEFC600D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					637C97A5221CF1BC00D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					637C97BB221CFEDC00D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					637C97C6221CFEF400D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					637C97D1221CFEF900D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					637C97DC221CFEFE00D29918 = {
+						CreatedOnToolsVersion = 10.1;
+					};
 					639EC8CE221B970800F72DD2 = {
 						CreatedOnToolsVersion = 10.1;
 					};
@@ -307,6 +601,12 @@
 			targets = (
 				633F072B221659C800648EF3 /* Problem_2000_2999 */,
 				639EC931221BA88A00F72DD2 /* 2010 */,
+				637C97BB221CFEDC00D29918 /* 2161 */,
+				637C97C6221CFEF400D29918 /* 2163 */,
+				637C97D1221CFEF900D29918 /* 2292 */,
+				637C97DC221CFEFE00D29918 /* 2309 */,
+				637C97A5221CF1BC00D29918 /* 2420 */,
+				637C979A221CEFC600D29918 /* 2525 */,
 				639EC8D9221B99FA00F72DD2 /* 2563 */,
 				639EC8CE221B970800F72DD2 /* 2822 */,
 				633F0739221659D300648EF3 /* 2979 */,
@@ -328,6 +628,54 @@
 			buildActionMask = 2147483647;
 			files = (
 				633F073D221659D300648EF3 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C9797221CEFC600D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C979E221CEFC600D29918 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97A2221CF1BC00D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C97A9221CF1BC00D29918 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97B8221CFEDC00D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C97BF221CFEDC00D29918 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97C3221CFEF400D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C97CA221CFEF400D29918 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97CE221CFEF900D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C97D5221CFEF900D29918 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		637C97D9221CFEFE00D29918 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				637C97E0221CFEFE00D29918 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +857,114 @@
 			};
 			name = Release;
 		};
+		637C979F221CEFC600D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97A0221CEFC600D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		637C97AA221CF1BC00D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97AB221CF1BC00D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		637C97C0221CFEDC00D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97C1221CFEDC00D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		637C97CC221CFEF400D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97CD221CFEF400D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		637C97D7221CFEF900D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97D8221CFEF900D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		637C97E2221CFEFE00D29918 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		637C97E3221CFEFE00D29918 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
 		639EC8D3221B970800F72DD2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -589,6 +1045,60 @@
 			buildConfigurations = (
 				633F073F221659D300648EF3 /* Debug */,
 				633F0740221659D300648EF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97A1221CEFC600D29918 /* Build configuration list for PBXNativeTarget "2525" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C979F221CEFC600D29918 /* Debug */,
+				637C97A0221CEFC600D29918 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97AC221CF1BC00D29918 /* Build configuration list for PBXNativeTarget "2420" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C97AA221CF1BC00D29918 /* Debug */,
+				637C97AB221CF1BC00D29918 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97C2221CFEDC00D29918 /* Build configuration list for PBXNativeTarget "2161" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C97C0221CFEDC00D29918 /* Debug */,
+				637C97C1221CFEDC00D29918 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97CB221CFEF400D29918 /* Build configuration list for PBXNativeTarget "2163" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C97CC221CFEF400D29918 /* Debug */,
+				637C97CD221CFEF400D29918 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97D6221CFEF900D29918 /* Build configuration list for PBXNativeTarget "2292" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C97D7221CFEF900D29918 /* Debug */,
+				637C97D8221CFEF900D29918 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		637C97E1221CFEFE00D29918 /* Build configuration list for PBXNativeTarget "2309" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				637C97E2221CFEFE00D29918 /* Debug */,
+				637C97E3221CFEFE00D29918 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
