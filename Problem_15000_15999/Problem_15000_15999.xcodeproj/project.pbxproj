@@ -11,6 +11,7 @@
 		63A768A122110F70009F5177 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A768A022110F70009F5177 /* main.swift */; };
 		63A768AE22110F84009F5177 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A768AD22110F84009F5177 /* main.swift */; };
 		63EBF40A222631EE0000A2D4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EBF409222631EE0000A2D4 /* main.swift */; };
+		63F474B12232083400FA0509 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F474B02232083400FA0509 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +51,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		63F474AC2232083400FA0509 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +71,8 @@
 		63A768AD22110F84009F5177 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		63EBF407222631EE0000A2D4 /* 15351 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 15351; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EBF409222631EE0000A2D4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		63F474AE2232083400FA0509 /* 15781 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 15781; sourceTree = BUILT_PRODUCTS_DIR; };
+		63F474B02232083400FA0509 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +104,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		63F474AB2232083400FA0509 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -109,6 +128,7 @@
 				63A7689F22110F70009F5177 /* Problem_15000_15999 */,
 				63EBF408222631EE0000A2D4 /* 15351 */,
 				63A768AC22110F84009F5177 /* 15733 */,
+				63F474AF2232083400FA0509 /* 15781 */,
 				633F074622165B2100648EF3 /* 15894 */,
 				63A7689E22110F70009F5177 /* Products */,
 			);
@@ -121,6 +141,7 @@
 				63A768AB22110F84009F5177 /* 15733 */,
 				633F074522165B2100648EF3 /* 15894 */,
 				63EBF407222631EE0000A2D4 /* 15351 */,
+				63F474AE2232083400FA0509 /* 15781 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -147,6 +168,14 @@
 				63EBF409222631EE0000A2D4 /* main.swift */,
 			);
 			path = 15351;
+			sourceTree = "<group>";
+		};
+		63F474AF2232083400FA0509 /* 15781 */ = {
+			isa = PBXGroup;
+			children = (
+				63F474B02232083400FA0509 /* main.swift */,
+			);
+			path = 15781;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +249,23 @@
 			productReference = 63EBF407222631EE0000A2D4 /* 15351 */;
 			productType = "com.apple.product-type.tool";
 		};
+		63F474AD2232083400FA0509 /* 15781 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 63F474B42232083400FA0509 /* Build configuration list for PBXNativeTarget "15781" */;
+			buildPhases = (
+				63F474AA2232083400FA0509 /* Sources */,
+				63F474AB2232083400FA0509 /* Frameworks */,
+				63F474AC2232083400FA0509 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 15781;
+			productName = 15781;
+			productReference = 63F474AE2232083400FA0509 /* 15781 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -242,6 +288,9 @@
 					63EBF406222631EE0000A2D4 = {
 						CreatedOnToolsVersion = 10.1;
 					};
+					63F474AD2232083400FA0509 = {
+						CreatedOnToolsVersion = 10.1;
+					};
 				};
 			};
 			buildConfigurationList = 63A7689822110F70009F5177 /* Build configuration list for PBXProject "Problem_15000_15999" */;
@@ -259,6 +308,7 @@
 				63A7689C22110F70009F5177 /* Problem_15000_15999 */,
 				63EBF406222631EE0000A2D4 /* 15351 */,
 				63A768AA22110F84009F5177 /* 15733 */,
+				63F474AD2232083400FA0509 /* 15781 */,
 				633F074422165B2100648EF3 /* 15894 */,
 			);
 		};
@@ -294,6 +344,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				63EBF40A222631EE0000A2D4 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63F474AA2232083400FA0509 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63F474B12232083400FA0509 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +545,24 @@
 			};
 			name = Release;
 		};
+		63F474B22232083400FA0509 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		63F474B32232083400FA0509 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -531,6 +607,15 @@
 			buildConfigurations = (
 				63EBF40B222631EE0000A2D4 /* Debug */,
 				63EBF40C222631EE0000A2D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		63F474B42232083400FA0509 /* Build configuration list for PBXNativeTarget "15781" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63F474B22232083400FA0509 /* Debug */,
+				63F474B32232083400FA0509 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
