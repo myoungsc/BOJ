@@ -41,6 +41,9 @@ Study Algorithm
 - 12000~12999
 	- 12813 : [이진수 연산](https://www.acmicpc.net/problem/12813)
 
+- 14000~14999
+	- 14490 : [백대열](https://www.acmicpc.net/problem/14490), 14656 : [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656)
+
 - 15000~15999
  	- 15351: [인생 점수](https://www.acmicpc.net/problem/15351), 15733 : [나는 누구인가](https://www.acmicpc.net/problem/15733), 15781 : [헬멧과 조끼](https://www.acmicpc.net/problem/15781), 15894 : [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), 15969 : [행복](https://www.acmicpc.net/problem/15969)
 
