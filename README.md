@@ -1,4 +1,4 @@
-# BOJ(BAEKJOON ONLINE JUDGE)
+aud# BOJ(BAEKJOON ONLINE JUDGE)
 
 ## Description
 Study Algorithm
@@ -18,13 +18,13 @@ Study Algorithm
 	- 3003 : [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003), 3009 : [네 번째 점](https://www.acmicpc.net/problem/3009), 3028 : [창영마을](https://www.acmicpc.net/problem/3028), 3034 : [앵그리 창영](https://www.acmicpc.net/problem/3034), 3036 : [링](https://www.acmicpc.net/problem/3036), 3046 : [R2](https://www.acmicpc.net/problem/3046), 3047 : [ABC](https://www.acmicpc.net/problem/3047), 3052 : [나머지](https://www.acmicpc.net/problem/3052), 3058 : [짝수를 찾아라](https://www.acmicpc.net/problem/3058), 3059 : [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059), 3062 : [수 뒤집기](https://www.acmicpc.net/problem/3062), 3449 : [해밍 거리](https://www.acmicpc.net/problem/3449), 3460 : [이진수](https://www.acmicpc.net/problem/3460)
 
 - 4000~4999
-	- 4101 : [크냐?](https://www.acmicpc.net/problem/4101), 4153 : [직각삼각형](https://www.acmicpc.net/problem/4153), 4344 : [평균은 넘겠지](https://www.acmicpc.net/problem/4344), 4458 : [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458), 4493 : [가위 바위 보?](https://www.acmicpc.net/problem/4493), 4592 : [중복을 없애자](https://www.acmicpc.net/problem/4592), 4766 : [일반 화학 실험](https://www.acmicpc.net/problem/4766), 4880 : [다음수](https://www.acmicpc.net/problem/4880)
+	- 4101 : [크냐?](https://www.acmicpc.net/problem/4101), 4153 : [직각삼각형](https://www.acmicpc.net/problem/4153), 4344 : [평균은 넘겠지](https://www.acmicpc.net/problem/4344), 4458 : [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458), 4493 : [가위 바위 보?](https://www.acmicpc.net/problem/4493), 4592 : [중복을 없애자](https://www.acmicpc.net/problem/4592), 4673 : [셀프 넘버](https://www.acmicpc.net/problem/4673), 4766 : [일반 화학 실험](https://www.acmicpc.net/problem/4766), 4880 : [다음수](https://www.acmicpc.net/problem/4880)
 
 - 5000~5999
- 	- 5176 : [대회 자리](https://www.acmicpc.net/problem/5176), 5217 : [쌍의 합](https://www.acmicpc.net/problem/5217), 5218 : [알파벳 거리](https://www.acmicpc.net/problem/5218), 5361 : [전투 드로이드 가격](https://www.acmicpc.net/problem/5361), 5523 : [경기 결과](https://www.acmicpc.net/problem/5523), 5575 : [타임 카드](https://www.acmicpc.net/problem/5575), 5613 : [계산기 프로그램](https://www.acmicpc.net/problem/5613), 5691 : [평균 중앙값 문제](https://www.acmicpc.net/problem/5691), 5789 : [한다 안한다](https://www.acmicpc.net/problem/5789), 5800 : [성적 통계](https://www.acmicpc.net/problem/5800)
+ 	- 5032 : [탄산 음료](https://www.acmicpc.net/problem/5032) 5063 : [TGN](https://www.acmicpc.net/problem/5063), 5086 : [배수와 약수](https://www.acmicpc.net/problem/5086), 5176 : [대회 자리](https://www.acmicpc.net/problem/5176), 5217 : [쌍의 합](https://www.acmicpc.net/problem/5217), 5218 : [알파벳 거리](https://www.acmicpc.net/problem/5218), 5361 : [전투 드로이드 가격](https://www.acmicpc.net/problem/5361), 5523 : [경기 결과](https://www.acmicpc.net/problem/5523), 5575 : [타임 카드](https://www.acmicpc.net/problem/5575), 5613 : [계산기 프로그램](https://www.acmicpc.net/problem/5613), 5691 : [평균 중앙값 문제](https://www.acmicpc.net/problem/5691), 5789 : [한다 안한다](https://www.acmicpc.net/problem/5789), 5800 : [성적 통계](https://www.acmicpc.net/problem/5800)
 
 - 6000~6999
-	- 6321 : [IBM 빼기 1](https://www.acmicpc.net/problem/6321)
+	- 6321 : [IBM 빼기 1](https://www.acmicpc.net/problem/6321), 6996 : [애너그램](https://www.acmicpc.net/problem/6996)
 
 - 8000~8999
 	- 8741 : [이진수 합](https://www.acmicpc.net/problem/8741)
