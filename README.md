@@ -21,7 +21,7 @@ Study Algorithm
 	- 4101 : [크냐?](https://www.acmicpc.net/problem/4101), 4153 : [직각삼각형](https://www.acmicpc.net/problem/4153), 4344 : [평균은 넘겠지](https://www.acmicpc.net/problem/4344), 4458 : [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458), 4493 : [가위 바위 보?](https://www.acmicpc.net/problem/4493), 4592 : [중복을 없애자](https://www.acmicpc.net/problem/4592), 4673 : [셀프 넘버](https://www.acmicpc.net/problem/4673), 4766 : [일반 화학 실험](https://www.acmicpc.net/problem/4766), 4880 : [다음수](https://www.acmicpc.net/problem/4880)
 
 - 5000~5999
- 	- 5032 : [탄산 음료](https://www.acmicpc.net/problem/5032) 5063 : [TGN](https://www.acmicpc.net/problem/5063), 5086 : [배수와 약수](https://www.acmicpc.net/problem/5086), 5176 : [대회 자리](https://www.acmicpc.net/problem/5176), 5217 : [쌍의 합](https://www.acmicpc.net/problem/5217), 5218 : [알파벳 거리](https://www.acmicpc.net/problem/5218), 5361 : [전투 드로이드 가격](https://www.acmicpc.net/problem/5361), 5523 : [경기 결과](https://www.acmicpc.net/problem/5523), 5575 : [타임 카드](https://www.acmicpc.net/problem/5575), 5613 : [계산기 프로그램](https://www.acmicpc.net/problem/5613), 5691 : [평균 중앙값 문제](https://www.acmicpc.net/problem/5691), 5789 : [한다 안한다](https://www.acmicpc.net/problem/5789), 5800 : [성적 통계](https://www.acmicpc.net/problem/5800)
+ 	- 5032 : [탄산 음료](https://www.acmicpc.net/problem/5032) 5063 : [TGN](https://www.acmicpc.net/problem/5063), 5086 : [배수와 약수](https://www.acmicpc.net/problem/5086), 5176 : [대회 자리](https://www.acmicpc.net/problem/5176), 5217 : [쌍의 합](https://www.acmicpc.net/problem/5217), 5218 : [알파벳 거리](https://www.acmicpc.net/problem/5218), 5337 : [웰컴](https://www.acmicpc.net/problem/5337), 5338 : [마이크로소프트 로그](https://www.acmicpc.net/problem/5338), 5339 : [콜센터](https://www.acmicpc.net/problem/5339), 5355 : [화성 수학](https://www.acmicpc.net/problem/5355), 5361 : [전투 드로이드 가격](https://www.acmicpc.net/problem/5361), 5523 : [경기 결과](https://www.acmicpc.net/problem/5523), 5575 : [타임 카드](https://www.acmicpc.net/problem/5575), 5613 : [계산기 프로그램](https://www.acmicpc.net/problem/5613), 5691 : [평균 중앙값 문제](https://www.acmicpc.net/problem/5691), 5789 : [한다 안한다](https://www.acmicpc.net/problem/5789), 5800 : [성적 통계](https://www.acmicpc.net/problem/5800)
 
 - 6000~6999
 	- 6321 : [IBM 빼기 1](https://www.acmicpc.net/problem/6321), 6996 : [애너그램](https://www.acmicpc.net/problem/6996)
@@ -30,7 +30,7 @@ Study Algorithm
 	- 8741 : [이진수 합](https://www.acmicpc.net/problem/8741)
 
 - 9000~9999
-	- 9093 : [단어 뒤집기](https://www.acmicpc.net/problem/9093), 9243 : [파일 완전 삭제](https://www.acmicpc.net/problem/9243), 9506 : [약수들의 합](https://www.acmicpc.net/problem/9506)
+	- 9093 : [단어 뒤집기](https://www.acmicpc.net/problem/9093), 9243 : [파일 완전 삭제](https://www.acmicpc.net/problem/9243), 9506 : [약수들의 합](https://www.acmicpc.net/problem/9506), 9713 : [Sum of Odd Sequence](https://www.acmicpc.net/problem/9713)
 
 - 10000~10999
 	- 10101 : [삼각형 외우기](https://www.acmicpc.net/problem/10101), 10102 : [개표](https://www.acmicpc.net/problem/10102), 10162 : [전자레인지](https://www.acmicpc.net/problem/10162), 10539 : [수빈이와 수열](https://www.acmicpc.net/problem/10539), 10599 : [페르시아의 왕들](https://www.acmicpc.net/problem/10599), 10768 : [특별한 날](https://www.acmicpc.net/problem/10768), 10769 : [행복한지 슬픈지](https://www.acmicpc.net/problem/10769), 10801 : [카드게임](https://www.acmicpc.net/problem/10801), 10804 : [카드 역배치](https://www.acmicpc.net/problem/10804), 10811 : [바구니 뒤집기](https://www.acmicpc.net/problem/10811), 10825 : [국영수수](https://www.acmicpc.net/problem/10825), 10829 : [이진수 변환](https://www.acmicpc.net/problem/10829), 10864 : [친구](https://www.acmicpc.net/problem/10864)
