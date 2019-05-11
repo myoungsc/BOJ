@@ -45,7 +45,7 @@ Study Algorithm
 	- 13301 : [타일 장식물](https://www.acmicpc.net/problem/13301), 13752 : [히스토그램](https://www.acmicpc.net/problem/13752)
 
 - 14000~14999
-	- 14490 : [백대열](https://www.acmicpc.net/problem/14490), 14656 : [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656)
+	- 14490 : [백대열](https://www.acmicpc.net/problem/14490), 14656 : [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656), 14726 : [신용카드 판별](https://www.acmicpc.net/problem/14726)
 
 - 15000~15999
  	- 15351: [인생 점수](https://www.acmicpc.net/problem/15351), 15733 : [나는 누구인가](https://www.acmicpc.net/problem/15733), 15781 : [헬멧과 조끼](https://www.acmicpc.net/problem/15781), 15841 : [야바위 대장](https://www.acmicpc.net/problem/15814), 15894 : [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), 15969 : [행복](https://www.acmicpc.net/problem/15969)
@@ -54,4 +54,4 @@ Study Algorithm
 	- 16430 : [제리와 톰](https://www.acmicpc.net/problem/16430)
 
 - 17000~17999
-	- 17010 : [Time to Decompress](https://www.acmicpc.net/problem/17010)
+	- 17010 : [Time to Decompress](https://www.acmicpc.net/problem/17010), 17173 : [배수들의 합](https://www.acmicpc.net/problem/17173)
