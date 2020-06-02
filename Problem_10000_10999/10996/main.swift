@@ -8,5 +8,25 @@
 
 import Foundation
 
-print("Hello, World!")
-
+if let input = readLine(), let x = Int(input) {
+    for _ in 0 ..< x {
+        var res = ""
+        for j in 0 ..< x { // 짝수만
+            if j % 2 == 0 {
+                res += "*"
+            } else {
+                res += " "
+            }
+        }
+        print(res)
+        res = ""
+        for k in 0 ..< x { // 홀수만
+            if k % 2 == 0 {
+                res += " "
+            } else {
+                res += "*"
+            }
+        }
+        print(res)
+    }
+}
