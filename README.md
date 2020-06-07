@@ -48,7 +48,7 @@ Study Algorithm
 	- 14490 : [백대열](https://www.acmicpc.net/problem/14490), 14656 : [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656), 14681 : [사분면 고르기](https://www.acmicpc.net/problem/14681),  14726 : [신용카드 판별](https://www.acmicpc.net/problem/14726)
 
 - 15000~15999
-     - 15351: [인생 점수](https://www.acmicpc.net/problem/15351), 15733 : [나는 누구인가](https://www.acmicpc.net/problem/15733), 15781 : [헬멧과 조끼](https://www.acmicpc.net/problem/15781), 15813 : [너의 이름은 몇 점이니?](https://www.acmicpc.net/problem/15813), 15841 : [야바위 대장](https://www.acmicpc.net/problem/15814), 15894 : [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), 15969 : [행복](https://www.acmicpc.net/problem/15969)
+- 15351: [인생 점수](https://www.acmicpc.net/problem/15351), 15733 : [나는 누구인가](https://www.acmicpc.net/problem/15733), 15781 : [헬멧과 조끼](https://www.acmicpc.net/problem/15781), 15813 : [너의 이름은 몇 점이니?](https://www.acmicpc.net/problem/15813), 15841 : [야바위 대장](https://www.acmicpc.net/problem/15814), 15894 : [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), 15963 : [CASIO](https://www.acmicpc.net/problem/15963), 15969 : [행복](https://www.acmicpc.net/problem/15969)
 
 - 16000~16999
 	- 16430 : [제리와 톰](https://www.acmicpc.net/problem/16430)
